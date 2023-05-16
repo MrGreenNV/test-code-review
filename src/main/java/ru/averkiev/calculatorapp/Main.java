@@ -21,7 +21,7 @@ public class Main {
             System.out.print("Enter the operation sign: ");
             char operation = (char) System.in.read();
 
-            double res;
+            double res; // from vim with love!! (i + :wq)
 
             switch (operation) {
                 case '+': {
